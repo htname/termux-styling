@@ -1,6 +1,6 @@
 # Termux:Styling
 
-[![Build status](https://github.com/termux/termux-styling/workflows/Build/badge.svg)](https://github.com/termux/termux-styling/actions)
+[![Build status](https://github.com/htname/termux-styling/workflows/Build/badge.svg)](https://github.com/termux/termux-styling/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
 
 A [Termux](https://termux.com/) add-on app to customize the terminal font and
@@ -16,7 +16,7 @@ Termux:Styling application can be obtained from [F-Droid](https://f-droid.org/en
 
 Additionally we provide per-commit debug builds for those who want to try
 out the latest features or test their pull request. This build can be obtained
-from one of the workflow runs listed on [Github Actions](https://github.com/termux/termux-styling/actions)
+from one of the workflow runs listed on [Github Actions](https://github.com/htname/termux-styling/actions)
 page.
 
 Signature keys of all offered builds are different. Before you switch the
